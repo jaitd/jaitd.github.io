@@ -9,7 +9,7 @@ I'm in my third semester of Masters in Computer Science. My primary area of inte
 are machine learning and distributed systems. I also love hackathons. You can find
 some of my hacks in my Github repo.
 
-Get in touch with me is via [email][email] or [twitter][twitter].
+Get in touch with me via [email][email] or [twitter][twitter].
 
 [email]: mailto:{{ site.email }}
 [twitter]: https://twitter.com/jaitdixit
